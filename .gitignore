@@ -1,3 +1,8 @@
+# Terraform files
+*.terraform*
+*.tfstate
+*.tfstate.*
+
 # Common credential files
 *.p8
 *creds*
